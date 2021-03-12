@@ -21,7 +21,7 @@
       "falpha": 0.0
     },
     "creativeTab": {
-      "value": "No creative tab entry"
+      "value": "CUSTOM:Dreams"
     },
     "isBoss": false,
     "bossBarColor": "PINK",
@@ -45,11 +45,11 @@
       "value": ""
     },
     "mobBehaviourType": "Mob",
-    "mobCreatureType": "UNDEFINED",
-    "attackStrength": 3,
+    "mobCreatureType": "ILLAGER",
+    "attackStrength": 7,
     "attackKnockback": 0.0,
     "knockbackResistance": 0.0,
-    "movementSpeed": 0.3,
+    "movementSpeed": 0.4,
     "armorBaseValue": 0.0,
     "trackingRange": 64,
     "health": 10,
@@ -88,7 +88,7 @@
     },
     "spawnParticles": false,
     "particleToSpawn": {
-      "value": "EXPLOSION_NORMAL"
+      "value": "VILLAGER_ANGRY"
     },
     "particleSpawningShape": "Spread",
     "particleSpawningRadious": 0.5,
@@ -104,7 +104,7 @@
       "value": ""
     },
     "rangedItemType": "Default item",
-    "spawnThisMob": true,
+    "spawnThisMob": false,
     "doesDespawnWhenIdle": true,
     "spawningProbability": 20,
     "mobSpawningType": "monster",
